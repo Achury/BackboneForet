@@ -1,0 +1,50 @@
+.lot-img{
+	max-width: 100%;
+	max-height: 240px;
+}
+
+.lotion{
+	height: 470px;
+	background-color: rgba(255, 255, 255, 0.28);
+}
+.logo{
+	margin-left: 38%;
+	margin-bottom: 10%;
+	margin-top:10%;
+}
+
+.promo{
+
+	margin-bottom: 10%;
+	width: 90%;
+	margin-left: 5%;
+}
+
+.thumbnails{
+	width: 90%;
+	margin-left: 5%;
+}
+
+body { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.lot-detail{
+	width: 70%;
+	margin-left: 28%;
+	margin-top: 10%;
+}
+
+.logo-detail{
+	width: 19%;
+	float: left;
+}
+
+.boton{
+	margin-left: 50%;
+	margin-top: 4%;
+}
